@@ -4,7 +4,7 @@
 > \$ git clone https://github.com/mshvaiko/vehicle_detection.git <br>
 > \$ cd vehicle_detection <br>
 > \$ python3 -m venv venv <br>
-> \$ source venv/bin/activete <br>
+> \$ source venv/bin/activate <br>
 > \$ pip install -r requirments.txt <br>
 
 ## Example of using
