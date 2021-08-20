@@ -3,8 +3,8 @@
 ## Seting up the env
 > \$ git clone https://github.com/mshvaiko/vehicle_detection.git <br>
 > \$ cd vehicle_detection <br>
-> \$ python -m venv venv <br>
-> \$ source venv/bin/active <br>
+> \$ python3 -m venv venv <br>
+> \$ source venv/bin/activete <br>
 > \$ pip install -r requirments.txt <br>
 
 ## Example of using
